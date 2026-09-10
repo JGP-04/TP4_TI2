@@ -1,2 +1,3 @@
 node_modules/
 user-apip6/.env
+dist/
